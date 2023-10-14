@@ -1,5 +1,10 @@
-# template
+# 🤖 A collection of small yet interesting AI apps
 
+🍽️ AI-recipe-generator
 
-Download all requirements: 
-pip install -r requirements.txt
+- Generating recipes given ingredients built with Langchain, OpenAI, ElevenLabs and Replicate
+
+💪 AI-fitness-companion
+
+- Transforming long exercise videos into portable, printable fitness routines
+- Built with Langchain, Langsmith, Whisper
